@@ -1,0 +1,14 @@
+name: ISSUE_TEMPLATE.md
+description: Template file that pre-populates new issue forms with structured sections,
+  guiding contributors to provide necessary information when reporting bugs or requesting
+  features.
+url: ''
+tags:
+- Templates
+- Issue Tracking
+- Repository
+- Collaboration
+created: '2025'
+modified: '2025'
+apis: []
+common: []
