@@ -7,10 +7,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Templates
+  - Collaboration
   - Issue Tracking
   - Repository
-  - Collaboration
+  - Templates
 url: >-
   https://raw.githubusercontent.com/api-evangelist/issue-template-md/refs/heads/main/apis.yml
 created: '2025-01-01'
