@@ -1,0 +1,23 @@
+aid: issue-template-md
+name: ISSUE_TEMPLATE.md Rules
+description: >-
+  Governance and curation rules for the ISSUE_TEMPLATE.md GitHub issue
+  template standard tracked within the API Evangelist network.
+rules:
+  - name: Standard Profile
+    description: Track ISSUE_TEMPLATE.md as a GitHub repository convention.
+    conditions:
+      - Type remains Index for this repository convention.
+      - Tags include Templates, Issue Tracking, Repository, Collaboration.
+      - No OpenAPI is generated; this is a markdown convention, not an API.
+  - name: References
+    description: Surface canonical GitHub documentation.
+    conditions:
+      - Common properties include the GitHub docs page describing issue templates.
+      - Avoid creating empty OpenAPI specs for non-API standards.
+  - name: Metadata Currency
+    description: Keep entry metadata accurate.
+    conditions:
+      - Update modified date on changes.
+      - README.md kept in sync with apis.yml.
+      - Maintainer remains Kin Lane unless otherwise specified.

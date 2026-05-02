@@ -5,9 +5,9 @@ ISSUE_TEMPLATE.md is a template file that pre-populates new issue forms with str
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
@@ -15,8 +15,16 @@ ISSUE_TEMPLATE.md is a template file that pre-populates new issue forms with str
 
 ## Timestamps
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
+
+## APIs
+
+This is a documentation/template standard, not an API. No APIs are documented.
+
+## Common Properties
+
+- [Documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/manually-creating-a-single-issue-template-for-your-repository)
 
 ## Maintainers
 
