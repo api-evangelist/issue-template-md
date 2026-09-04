@@ -1,5 +1,6 @@
 aid: issue-template-md
 name: ISSUE_TEMPLATE.md
+x-type: convention
 description: >-
   ISSUE_TEMPLATE.md is a template file that pre-populates new issue forms
   with structured sections, guiding contributors to provide necessary
